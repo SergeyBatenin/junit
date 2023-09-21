@@ -9,7 +9,7 @@ class VehicleTest {
     @Test
     public void testCarInstanceVehicle() {
         Car car = new Car("BMW", "M5", 2020);
-        assertTrue(car instanceof Vehicle);
+        assertInstanceOf(Vehicle.class, car);
     }
 
     @Test
