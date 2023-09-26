@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64aceb5c-beaf-4ec0-b44a-d20eaf2bad08" name="Changes" comment="" />
+    <list default="true" id="64aceb5c-beaf-4ec0-b44a-d20eaf2bad08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="2" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Downloads/unit-tests-1(Код семинара)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/contacts-app&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -46,101 +51,103 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="homework3" />
+      <recent name="lessons" />
       <recent name="homework2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VehicleTest.testCarInstanceVehicle">
-    <configuration name="ShopTest.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UserRepositoryTest.testUnloginUsersIfNotAdmin">
+    <configuration name="UserRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson2.*" />
+          <option name="PATTERN" value="homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lessons.lesson2" />
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson2.ShopTest" />
-      <option name="METHOD_NAME" value="testMethod" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShopTest.testRemoveMoreProductsThanAvailable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons.lesson2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lessons.lesson2" />
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson2.ShopTest" />
-      <option name="METHOD_NAME" value="testRemoveMoreProductsThanAvailable" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homework2" />
-      <option name="MAIN_CLASS_NAME" value="homework2.VehicleTest" />
+      <option name="PACKAGE_NAME" value="homework3" />
+      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest.testCarInstanceVehicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryTest.testAddUserIsAuthenticated (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.*" />
+          <option name="PATTERN" value="homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework2" />
-      <option name="MAIN_CLASS_NAME" value="homework2.VehicleTest" />
-      <option name="METHOD_NAME" value="testCarInstanceVehicle" />
+      <option name="PACKAGE_NAME" value="homework3" />
+      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testAddUserIsAuthenticated" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson2 in JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryTest.testAddUserIsNotAuthenticated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson2.*" />
+          <option name="PATTERN" value="homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lessons.lesson2" />
+      <option name="PACKAGE_NAME" value="homework3" />
+      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testAddUserIsNotAuthenticated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTest.testUnloginUsersIfNotAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework3" />
+      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="testUnloginUsersIfNotAdmin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework3 in JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework3" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ShopTest.testMethod" />
-      <item itemvalue="JUnit.ShopTest.testRemoveMoreProductsThanAvailable" />
-      <item itemvalue="JUnit.VehicleTest" />
-      <item itemvalue="JUnit.VehicleTest.testCarInstanceVehicle" />
-      <item itemvalue="JUnit.lessons.lesson2 in JUnit" />
+      <item itemvalue="JUnit.UserRepositoryTest" />
+      <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsAuthenticated (2)" />
+      <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsNotAuthenticated" />
+      <item itemvalue="JUnit.UserRepositoryTest.testUnloginUsersIfNotAdmin" />
+      <item itemvalue="JUnit.homework3 in JUnit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VehicleTest.testCarInstanceVehicle" />
-        <item itemvalue="JUnit.VehicleTest" />
-        <item itemvalue="JUnit.ShopTest.testMethod" />
-        <item itemvalue="JUnit.lessons.lesson2 in JUnit" />
-        <item itemvalue="JUnit.ShopTest.testRemoveMoreProductsThanAvailable" />
+        <item itemvalue="JUnit.UserRepositoryTest.testUnloginUsersIfNotAdmin" />
+        <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsAuthenticated (2)" />
+        <item itemvalue="JUnit.homework3 in JUnit" />
+        <item itemvalue="JUnit.UserRepositoryTest" />
+        <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsNotAuthenticated" />
       </list>
     </recent_temporary>
   </component>
@@ -165,5 +172,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JUnit$MathUtilsTest.ic" NAME="MathUtilsTest Coverage Results" MODIFIED="1695670915315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$CalculatorTestDep.ic" NAME="CalculatorTestDep Coverage Results" MODIFIED="1695376730570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lessons.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1695379989437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lessons.lesson2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$VehicleTest.ic" NAME="VehicleTest Coverage Results" MODIFIED="1695377227001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1695666983462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lessons.lesson3.coverage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$ShopTest.ic" NAME="ShopTest Coverage Results" MODIFIED="1695377165556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lessons.lesson2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$homework3_in_JUnit.ic" NAME="homework3 in JUnit Coverage Results" MODIFIED="1695675177847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JUnit$UserRepositoryTest.ic" NAME="UserRepositoryTest Coverage Results" MODIFIED="1695675100808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework3.*</FILTER>
+    </SUITE>
   </component>
 </project>
