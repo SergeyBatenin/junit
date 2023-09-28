@@ -34,120 +34,122 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/contacts-app&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/contacts-app",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="homework4" />
       <recent name="homework3" />
       <recent name="lessons" />
       <recent name="homework2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserRepositoryTest.testUnloginUsersIfNotAdmin">
-    <configuration name="UserRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.homework4 in JUnit">
+    <configuration name="BookServiceTest.testFindAllBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.*" />
+          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework3" />
-      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserRepositoryTest.testAddUserIsAuthenticated (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JUnit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="homework3" />
-      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
-      <option name="METHOD_NAME" value="testAddUserIsAuthenticated" />
+      <option name="PACKAGE_NAME" value="homework4" />
+      <option name="MAIN_CLASS_NAME" value="homework4.BookServiceTest" />
+      <option name="METHOD_NAME" value="testFindAllBooks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserRepositoryTest.testAddUserIsNotAuthenticated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testGetBookById (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.*" />
+          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework3" />
-      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
-      <option name="METHOD_NAME" value="testAddUserIsNotAuthenticated" />
+      <option name="PACKAGE_NAME" value="homework4" />
+      <option name="MAIN_CLASS_NAME" value="homework4.BookServiceTest" />
+      <option name="METHOD_NAME" value="testGetBookById(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserRepositoryTest.testUnloginUsersIfNotAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookServiceTest.testGetBookById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.*" />
+          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework3" />
-      <option name="MAIN_CLASS_NAME" value="homework3.UserRepositoryTest" />
-      <option name="METHOD_NAME" value="testUnloginUsersIfNotAdmin" />
+      <option name="PACKAGE_NAME" value="homework4" />
+      <option name="MAIN_CLASS_NAME" value="homework4.BookServiceTest" />
+      <option name="METHOD_NAME" value="testGetBookById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework3 in JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookingServiceTest.testIsAvailableRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework3.*" />
+          <option name="PATTERN" value="lessons.lesson4.hotel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homework3" />
+      <option name="PACKAGE_NAME" value="lessons.lesson4.hotel" />
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson4.hotel.BookingServiceTest" />
+      <option name="METHOD_NAME" value="testIsAvailableRoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework4 in JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework4" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserRepositoryTest" />
-      <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsAuthenticated (2)" />
-      <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsNotAuthenticated" />
-      <item itemvalue="JUnit.UserRepositoryTest.testUnloginUsersIfNotAdmin" />
-      <item itemvalue="JUnit.homework3 in JUnit" />
+      <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
+      <item itemvalue="JUnit.BookServiceTest.testGetBookById" />
+      <item itemvalue="JUnit.BookServiceTest.testGetBookById (1)" />
+      <item itemvalue="JUnit.BookingServiceTest.testIsAvailableRoom" />
+      <item itemvalue="JUnit.homework4 in JUnit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserRepositoryTest.testUnloginUsersIfNotAdmin" />
-        <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsAuthenticated (2)" />
-        <item itemvalue="JUnit.homework3 in JUnit" />
-        <item itemvalue="JUnit.UserRepositoryTest" />
-        <item itemvalue="JUnit.UserRepositoryTest.testAddUserIsNotAuthenticated" />
+        <item itemvalue="JUnit.homework4 in JUnit" />
+        <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
+        <item itemvalue="JUnit.BookServiceTest.testGetBookById (1)" />
+        <item itemvalue="JUnit.BookServiceTest.testGetBookById" />
+        <item itemvalue="JUnit.BookingServiceTest.testIsAvailableRoom" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +194,7 @@
     <SUITE FILE_PATH="coverage/JUnit$ShopTest.ic" NAME="ShopTest Coverage Results" MODIFIED="1695377165556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lessons.lesson2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/JUnit$homework3_in_JUnit.ic" NAME="homework3 in JUnit Coverage Results" MODIFIED="1695675177847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/JUnit$homework3_in_JUnit.ic" NAME="homework3 in JUnit Coverage Results" MODIFIED="1695716684552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>homework3.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/JUnit$UserRepositoryTest.ic" NAME="UserRepositoryTest Coverage Results" MODIFIED="1695675100808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
