@@ -16,7 +16,7 @@ class BookServiceTest {
     List<Book> bookList;
 
     @BeforeEach
-    void testinit() {
+    void testInit() {
         bookList = Arrays.asList(
                 new Book("1", "Title1", "Author1"),
                 new Book("2", "Title2", "Author2"),
